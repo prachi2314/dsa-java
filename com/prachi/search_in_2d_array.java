@@ -1,3 +1,5 @@
+package com.prachi;
+
 import java.util.Arrays;
 
 public class search_in_2d_array {

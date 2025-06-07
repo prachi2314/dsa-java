@@ -1,3 +1,5 @@
+package com.prachi;
+
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {6, 11, 15, 20, 23, 29, 31, 45};

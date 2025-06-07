@@ -1,3 +1,5 @@
+package com.prachi;
+
 public class linearsearch {
     public static void main(String[] args) {
         int[] nums = {23, 1, 56, 42, 25, 65, 52};
